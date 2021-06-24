@@ -16,3 +16,9 @@ Aus dem Buch [Harzer Hirten, Harzer Kühe](https://openlibrary.org/works/OL18426
 - [LilyPond](Das%20faule%20Gretl-1.ly)
 
 Ebenfalls aus dem Buch [Harzer Hirten, Harzer Kühe](https://openlibrary.org/works/OL18426019W/).
+
+## 2: Das Faule Gretl 2
+
+- [Transkript](Das%20faule%20Gretl-2.md)
+
+Aus dem Allgemeinen Harz-Berg-Kalender für das Jahr 1962, S. 98
