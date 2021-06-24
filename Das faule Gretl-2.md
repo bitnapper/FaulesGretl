@@ -2,10 +2,10 @@
 
 Aus dem Allgemeinen Harz-Berg-Kalender für das Jahr 1962, S. 98. Fassung der 1930er Jahre, aufgeschrieben von K. Th. Weigel.
 
-1. Wer so ein faules Gretel hat,
-der kann wohl lustig sein.
-Sie schläft wohl immer morgens,
-bis die helle Sonne scheint
+1. Wer so ein faules Gretel hat,  
+der kann wohl lustig sein.  
+Sie schläft wohl immer morgens,  
+bis die helle Sonne scheint  
 und der Hirt die Küh’ austreibt.
 
 2. Da kam der Vater aus dem Wald,
