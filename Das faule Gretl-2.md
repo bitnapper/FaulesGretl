@@ -1,6 +1,6 @@
 # Das faule Gretel
 
-Aus dem Allgemeinen Harz-Berg-Kalender für das Jahr 1962. Fassung der 1930er Jahre, aufgeschrieben von K. Th. Weigel.
+Aus dem Allgemeinen Harz-Berg-Kalender für das Jahr 1962, S. 98. Fassung der 1930er Jahre, aufgeschrieben von K. Th. Weigel.
 
 1. Wer so ein faules Gretel hat,
 der kann wohl lustig sein.
@@ -30,4 +30,4 @@ faules Gretel komm hertür.
 wenn ich steh vor der Tür
 so blas ich alle Morgen, Morgen,
 Dir ein Lied vor Deiner Tür,
-faules Gretel komm herfür. 
+faules Gretel komm herfür.
